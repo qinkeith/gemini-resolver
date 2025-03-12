@@ -1,6 +1,6 @@
 # AI Merge Conflict Resolver with Gemini
 
-This is a Visual Studio Code extension  that uses Google's Generative AI (Gemini Pro model) to automatically resolve Git merge conflicts in code files.
+This is a Visual Studio Code extension  that uses Google's Generative AI (Gemini-2.0-flash as the default model) to automatically resolve Git merge conflicts in code files.
 
 ## Key Features
 

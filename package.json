@@ -4,6 +4,7 @@
   "description": "Git merge conflict resolver using Gemini AI.",
   "version": "0.1.0",
   "icon": "resources/ai-resolver.ico",
+  "publisher": "Bini",
   "license": "MIT",
   "engines": {
     "vscode": "^1.98.0"
